@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/usr/local/bin/mise trust /workspaces/example-devcontainer/mise.toml && \
+/usr/local/bin/mise install

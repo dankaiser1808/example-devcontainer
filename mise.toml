@@ -1,0 +1,6 @@
+[tools]
+kubectl = "latest"
+docker-cli = "latest"
+go = "latest"
+terraform = "latest"
+aws-cli = "latest"
