@@ -1,7 +1,5 @@
 [tools]
 kubectl = "latest"
-docker-cli = "latest"
-go = "latest"
-terraform = "latest"
-aws-cli = "latest"
+go = ["1.21.5", "1.22.0"]
+aws-cli = "2.15.0"
 1password-cli = "latest"
